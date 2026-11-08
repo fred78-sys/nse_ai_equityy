@@ -1,0 +1,53 @@
+# NSE self-learning research system -- all knobs in one place.
+universe_file: config/nse_universe.csv
+
+data:
+  source: csv                  # csv | yahoo (collect -> csv) | synthetic (demo only)
+  csv_dir: data/csv            # one file per ticker: date,close,volume  (close = dividend-adjusted if possible)
+  start: "2012-01-01"
+  max_stale_days: 10           # forward-fill limit for non-trading days (NSE has many)
+  fx_symbol: "KES=X"           # USD/KES (Yahoo)
+  macro_csv: data/macro.csv    # optional: date,series,value  (cbk_rate, tbill91, inflation, usdkes ...)
+  fundamentals_csv: data/fundamentals.csv  # optional, point-in-time: ticker,period_end,publish_date,eps,dps,bvps,revenue
+  sentiment_csv: data/sentiment.csv        # optional: date,ticker,score(-1..1)
+
+market:
+  cash_annual_rate: 0.09       # proxy for 91-day T-bill. UPDATE to current. Overridden by macro 'tbill91' if provided.
+  equity_risk_premium: 0.04    # used only as a baseline drift in the forecast simulation
+  one_way_cost_bps: 150        # ALL-IN assumption: brokerage + levies + spread/impact. Verify with your broker.
+  min_median_value_kes: 1000000  # min median daily traded value (63d) to be investable
+  max_zero_volume_frac: 0.50   # max share of no-trade days in last 63d
+  min_history_days: 252
+  max_position_weight: 0.25
+  min_position_weight: 0.01    # smaller positions are dropped (not worth the trading cost)
+  participation_rate: 0.15     # max share of median daily value you may trade per day (capacity check)
+
+learning:
+  seed: 7
+  train_months: 60             # evolution/training window (rolling)
+  min_train_months: 36         # history required before the first out-of-sample decision
+  learn_every_months: 3        # re-learn cadence
+  population: 60
+  generations: 8
+  elite: 10
+  new_candidates_per_epoch: 3
+  max_registry_active: 8
+  hurdle_z: 1.0                # train IR must exceed z/sqrt(years) -- multiple-testing guard
+  prior_months: 12             # pseudo-observations given to the (shrunk) train evidence
+  deflation_k: 0.5             # share of the 'best-of-N by luck' IR subtracted from in-sample IR (selection bias)
+  prior_shrink: 0.5            # fraction of the deflated edge still believed (decay / regime change)
+  conviction_se_k: 0.5         # capital follows (posterior IR - k*std.error): evidence must build before capital does
+  min_live_months_to_judge: 6
+  retire_loss_streak: 6        # consecutive months trailing the benchmark -> retire
+  retire_cum_excess: 0.10      # live cumulative excess below -10% -> retire
+  retire_tstat: -1.0
+  full_conviction_ir: 1.0      # posterior annualised IR at which the portfolio is 100% strategy (vs index sleeve)
+  rebalance_band: 0.01         # skip weight changes smaller than 1% (saves costs)
+  use_ml: true
+
+forecast:
+  horizon_days: 63             # ~3 months
+  mc_paths: 4000
+  bootstrap_block: 5
+  min_buy_weight: 0.03
+  capital_kes: 1000000

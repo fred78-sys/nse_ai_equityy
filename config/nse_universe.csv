@@ -1,0 +1,51 @@
+ticker,name,sector,yahoo
+SCOM,Safaricom,Telecommunications,SCOM.NR
+EQTY,Equity Group Holdings,Banking,EQTY.NR
+KCB,KCB Group,Banking,KCB.NR
+ABSA,Absa Bank Kenya,Banking,ABSA.NR
+COOP,Co-operative Bank of Kenya,Banking,COOP.NR
+SCBK,Standard Chartered Bank Kenya,Banking,SCBK.NR
+NCBA,NCBA Group,Banking,NCBA.NR
+IMH,I&M Group,Banking,IMH.NR
+DTK,Diamond Trust Bank Kenya,Banking,DTK.NR
+SBIC,Stanbic Holdings,Banking,SBIC.NR
+HFCK,HF Group,Banking,HFCK.NR
+EABL,East African Breweries,Manufacturing,EABL.NR
+BAT,BAT Kenya,Manufacturing,BAT.NR
+UNGA,Unga Group,Manufacturing,UNGA.NR
+FTGH,Flame Tree Group,Manufacturing,FTGH.NR
+BOC,BOC Kenya,Manufacturing,BOC.NR
+CARB,Carbacid Investments,Manufacturing,CARB.NR
+KEGN,KenGen,Energy,KEGN.NR
+KPLC,Kenya Power & Lighting,Energy,KPLC.NR
+TOTL,TotalEnergies Marketing Kenya,Energy,TOTL.NR
+UMME,Umeme,Energy,UMME.NR
+BRIT,Britam Holdings,Insurance,BRIT.NR
+CIC,CIC Insurance Group,Insurance,CIC.NR
+JUB,Jubilee Holdings,Insurance,JUB.NR
+KNRE,Kenya Reinsurance,Insurance,KNRE.NR
+LBTY,Liberty Kenya Holdings,Insurance,LBTY.NR
+SLAM,Sanlam Kenya,Insurance,SLAM.NR
+CTUM,Centum Investment,Investment,CTUM.NR
+ICDC,ICDC (Centum),Investment,ICDC.NR
+OCH,Olympia Capital Holdings,Investment,OCH.NR
+TCL,TransCentury,Investment,TCL.NR
+NSE,Nairobi Securities Exchange,Investment Services,NSE.NR
+KQ,Kenya Airways,Commercial,KQ.NR
+NMG,Nation Media Group,Commercial,NMG.NR
+SGL,Standard Group,Commercial,SGL.NR
+SCAN,WPP Scangroup,Commercial,SCAN.NR
+LKL,Longhorn Publishers,Commercial,LKL.NR
+TPSE,TPS Eastern Africa,Commercial,TPSE.NR
+XPRS,Express Kenya,Commercial,XPRS.NR
+SMER,Sameer Africa,Automobiles,SMER.NR
+CGEN,Car & General,Automobiles,CGEN.NR
+PORT,East African Portland Cement,Construction,PORT.NR
+CRWN,Crown Paints Kenya,Construction,CRWN.NR
+SASN,Sasini,Agricultural,SASN.NR
+KUKZ,Kakuzi,Agricultural,KUKZ.NR
+KAPC,Kapchorua Tea,Agricultural,KAPC.NR
+LIMT,Limuru Tea,Agricultural,LIMT.NR
+WTK,Williamson Tea Kenya,Agricultural,WTK.NR
+EGAD,Eaagads,Agricultural,EGAD.NR
+EVRD,Eveready East Africa,Commercial,EVRD.NR
