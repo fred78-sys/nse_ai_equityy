@@ -1,0 +1,3818 @@
+{
+ "counter": 93,
+ "events": [
+  {
+   "date": "2019-04-30",
+   "event": "born",
+   "id": "S0001",
+   "detail": "evolved | train IR 1.69 (deflated 0.72) | +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2019-04-30",
+   "event": "born",
+   "id": "S0002",
+   "detail": "evolved | train IR 1.11 (deflated 0.15) | +ln_amihud_63 | top5 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2019-04-30",
+   "event": "born",
+   "id": "S0003",
+   "detail": "evolved | train IR 0.82 (deflated 0.00) | +ln_amihud_63 | top4 hold2m invvol | regime>-0.10->50%"
+  },
+  {
+   "date": "2019-07-31",
+   "event": "born",
+   "id": "S0004",
+   "detail": "evolved | train IR 0.91 (deflated 0.00) | +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2019-07-31",
+   "event": "born",
+   "id": "S0005",
+   "detail": "evolved | train IR 0.83 (deflated 0.00) | -zero_frac_63 +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2019-07-31",
+   "event": "born",
+   "id": "S0006",
+   "detail": "evolved | train IR 0.69 (deflated 0.00) | +rsi_14 +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2019-10-31",
+   "event": "born",
+   "id": "S0007",
+   "detail": "evolved | train IR 1.10 (deflated 0.18) | -ml_pred +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2019-10-31",
+   "event": "born",
+   "id": "S0008",
+   "detail": "evolved | train IR 0.90 (deflated 0.00) | +vol_63 -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2019-10-31",
+   "event": "born",
+   "id": "S0009",
+   "detail": "evolved | train IR 0.65 (deflated 0.00) | -ml_pred -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2019-10-31",
+   "event": "retired",
+   "id": "S0003",
+   "detail": "outranked (post IR -0.93) | +ln_amihud_63 | top4 hold2m invvol | regime>-0.10->50%"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "retired",
+   "id": "S0001",
+   "detail": "live excess -15.0% vs benchmark | +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "retired",
+   "id": "S0002",
+   "detail": "live excess -11.4% vs benchmark | +ln_amihud_63 | top5 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "born",
+   "id": "S0010",
+   "detail": "evolved | train IR 1.20 (deflated 0.32) | +vol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "born",
+   "id": "S0011",
+   "detail": "evolved | train IR 0.98 (deflated 0.10) | +vol_63 -zero_frac_63 | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "born",
+   "id": "S0012",
+   "detail": "evolved | train IR 0.79 (deflated 0.00) | +vol_63 -zero_frac_63 -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2020-01-31",
+   "event": "retired",
+   "id": "S0012",
+   "detail": "outranked (post IR 0.00) | +vol_63 -zero_frac_63 -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "retired",
+   "id": "S0004",
+   "detail": "live excess -10.1% vs benchmark | +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "promoted",
+   "id": "S0005",
+   "detail": "live excess +2.4% over 8m"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "born",
+   "id": "S0013",
+   "detail": "evolved | train IR 1.25 (deflated 0.40) | +vol_63 -ml_pred -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "born",
+   "id": "S0014",
+   "detail": "evolved | train IR 1.20 (deflated 0.35) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "born",
+   "id": "S0015",
+   "detail": "evolved | train IR 1.13 (deflated 0.29) | +vol_63 +mom_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "retired",
+   "id": "S0006",
+   "detail": "outranked (post IR -0.21) | +rsi_14 +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2020-04-30",
+   "event": "retired",
+   "id": "S0011",
+   "detail": "outranked (post IR -0.27) | +vol_63 -zero_frac_63 | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "promoted",
+   "id": "S0007",
+   "detail": "live excess +7.5% over 8m"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "promoted",
+   "id": "S0009",
+   "detail": "live excess +0.6% over 8m"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "born",
+   "id": "S0016",
+   "detail": "evolved | train IR 1.04 (deflated 0.22) | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "born",
+   "id": "S0017",
+   "detail": "evolved | train IR 0.98 (deflated 0.15) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "born",
+   "id": "S0018",
+   "detail": "evolved | train IR 0.87 (deflated 0.05) | +vol_63 +mom_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "retired",
+   "id": "S0010",
+   "detail": "outranked (post IR -0.43) | +vol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "retired",
+   "id": "S0013",
+   "detail": "outranked (post IR -0.43) | +vol_63 -ml_pred -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-07-31",
+   "event": "retired",
+   "id": "S0015",
+   "detail": "outranked (post IR -0.55) | +vol_63 +mom_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "promoted",
+   "id": "S0008",
+   "detail": "live excess +0.9% over 11m"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "born",
+   "id": "S0019",
+   "detail": "evolved | train IR 1.04 (deflated 0.23) | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "born",
+   "id": "S0020",
+   "detail": "evolved | train IR 0.98 (deflated 0.17) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "born",
+   "id": "S0021",
+   "detail": "evolved | train IR 0.92 (deflated 0.12) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "retired",
+   "id": "S0018",
+   "detail": "outranked (post IR -0.22) | +vol_63 +mom_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "retired",
+   "id": "S0017",
+   "detail": "outranked (post IR -0.42) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2020-10-30",
+   "event": "retired",
+   "id": "S0014",
+   "detail": "outranked (post IR -0.48) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "retired",
+   "id": "S0007",
+   "detail": "posterior IR -0.11 <= 0 after 14m | -ml_pred +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "retired",
+   "id": "S0008",
+   "detail": "posterior IR -0.09 <= 0 after 14m | +vol_63 -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "born",
+   "id": "S0022",
+   "detail": "evolved | train IR 0.94 (deflated 0.16) | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "born",
+   "id": "S0023",
+   "detail": "evolved | train IR 0.88 (deflated 0.11) | +vol_63 -zero_frac_63 -ml_pred | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "born",
+   "id": "S0024",
+   "detail": "evolved | train IR 0.92 (deflated 0.15) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-01-29",
+   "event": "retired",
+   "id": "S0016",
+   "detail": "outranked (post IR -0.35) | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "born",
+   "id": "S0025",
+   "detail": "evolved | train IR 0.91 (deflated 0.15) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "born",
+   "id": "S0026",
+   "detail": "evolved | train IR 1.03 (deflated 0.26) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "born",
+   "id": "S0027",
+   "detail": "evolved | train IR 0.83 (deflated 0.07) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "retired",
+   "id": "S0027",
+   "detail": "outranked (post IR 0.03) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "retired",
+   "id": "S0021",
+   "detail": "outranked (post IR -0.06) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-04-30",
+   "event": "retired",
+   "id": "S0019",
+   "detail": "outranked (post IR -0.16) | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "promoted",
+   "id": "S0020",
+   "detail": "live excess +4.3% over 8m"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "born",
+   "id": "S0028",
+   "detail": "evolved | train IR 0.88 (deflated 0.12) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "born",
+   "id": "S0029",
+   "detail": "evolved | train IR 0.96 (deflated 0.19) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "born",
+   "id": "S0030",
+   "detail": "evolved | train IR 0.90 (deflated 0.14) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "retired",
+   "id": "S0030",
+   "detail": "outranked (post IR 0.07) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "retired",
+   "id": "S0028",
+   "detail": "outranked (post IR 0.06) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-07-30",
+   "event": "retired",
+   "id": "S0026",
+   "detail": "outranked (post IR -0.04) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "promoted",
+   "id": "S0022",
+   "detail": "live excess +1.8% over 8m"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "promoted",
+   "id": "S0023",
+   "detail": "live excess +13.5% over 8m"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "promoted",
+   "id": "S0024",
+   "detail": "live excess +4.7% over 8m"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "born",
+   "id": "S0031",
+   "detail": "evolved | train IR 1.13 (deflated 0.36) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "born",
+   "id": "S0032",
+   "detail": "evolved | train IR 0.97 (deflated 0.20) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "born",
+   "id": "S0033",
+   "detail": "evolved | train IR 0.94 (deflated 0.18) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "retired",
+   "id": "S0032",
+   "detail": "outranked (post IR 0.10) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "retired",
+   "id": "S0033",
+   "detail": "outranked (post IR 0.09) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2021-10-29",
+   "event": "retired",
+   "id": "S0029",
+   "detail": "outranked (post IR 0.06) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "promoted",
+   "id": "S0025",
+   "detail": "live excess +13.0% over 8m"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "born",
+   "id": "S0034",
+   "detail": "evolved | train IR 1.12 (deflated 0.36) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "born",
+   "id": "S0035",
+   "detail": "evolved | train IR 0.96 (deflated 0.19) | +vol_63 -ml_pred +dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "born",
+   "id": "S0036",
+   "detail": "evolved | train IR 0.96 (deflated 0.19) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "retired",
+   "id": "S0005",
+   "detail": "outranked (post IR 0.13) | -zero_frac_63 +ln_amihud_63 | top4 hold3m invvol"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "retired",
+   "id": "S0036",
+   "detail": "outranked (post IR 0.10) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-01-31",
+   "event": "retired",
+   "id": "S0035",
+   "detail": "outranked (post IR 0.10) | +vol_63 -ml_pred +dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "born",
+   "id": "S0037",
+   "detail": "evolved | train IR 1.06 (deflated 0.30) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "born",
+   "id": "S0038",
+   "detail": "evolved | train IR 0.87 (deflated 0.11) | -ml_pred -ln_amihud_63 | top15 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "born",
+   "id": "S0039",
+   "detail": "evolved | train IR 0.79 (deflated 0.04) | -ml_pred -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "retired",
+   "id": "S0037",
+   "detail": "outranked (post IR 0.15) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "retired",
+   "id": "S0038",
+   "detail": "outranked (post IR 0.06) | -ml_pred -ln_amihud_63 | top15 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-04-29",
+   "event": "retired",
+   "id": "S0039",
+   "detail": "outranked (post IR 0.02) | -ml_pred -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "retired",
+   "id": "S0022",
+   "detail": "posterior IR -0.07 <= 0 after 17m | +vol_63 -zero_frac_63 -ml_pred | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "born",
+   "id": "S0040",
+   "detail": "evolved | train IR 0.72 (deflated 0.00) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "born",
+   "id": "S0041",
+   "detail": "evolved | train IR 0.77 (deflated 0.01) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "born",
+   "id": "S0042",
+   "detail": "evolved | train IR 0.62 (deflated 0.00) | +vol_63 -dvol_63 -ml_pred | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "retired",
+   "id": "S0040",
+   "detail": "outranked (post IR 0.00) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-07-29",
+   "event": "retired",
+   "id": "S0042",
+   "detail": "outranked (post IR 0.00) | +vol_63 -dvol_63 -ml_pred | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "born",
+   "id": "S0043",
+   "detail": "evolved | train IR 0.75 (deflated 0.00) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "born",
+   "id": "S0044",
+   "detail": "evolved | train IR 0.54 (deflated 0.00) | +vol_63 -ml_pred -dvol_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "born",
+   "id": "S0045",
+   "detail": "evolved | train IR 0.55 (deflated 0.00) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "retired",
+   "id": "S0043",
+   "detail": "outranked (post IR 0.00) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "retired",
+   "id": "S0044",
+   "detail": "outranked (post IR 0.00) | +vol_63 -ml_pred -dvol_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2022-10-31",
+   "event": "retired",
+   "id": "S0045",
+   "detail": "outranked (post IR 0.00) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "promoted",
+   "id": "S0031",
+   "detail": "live excess +21.1% over 14m"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "promoted",
+   "id": "S0034",
+   "detail": "live excess +19.9% over 11m"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "born",
+   "id": "S0046",
+   "detail": "evolved | train IR 0.84 (deflated 0.08) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "born",
+   "id": "S0047",
+   "detail": "evolved | train IR 0.84 (deflated 0.09) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "born",
+   "id": "S0048",
+   "detail": "evolved | train IR 0.81 (deflated 0.05) | +vol_63 -fx_beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "retired",
+   "id": "S0047",
+   "detail": "outranked (post IR 0.04) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "retired",
+   "id": "S0046",
+   "detail": "outranked (post IR 0.04) | +vol_63 -zero_frac_63 -dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-01-31",
+   "event": "retired",
+   "id": "S0048",
+   "detail": "outranked (post IR 0.03) | +vol_63 -fx_beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "promoted",
+   "id": "S0041",
+   "detail": "live excess +29.2% over 8m"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "born",
+   "id": "S0049",
+   "detail": "evolved | train IR 0.85 (deflated 0.09) | +vol_63 -dvol_63 +rev_g | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "born",
+   "id": "S0050",
+   "detail": "evolved | train IR 0.88 (deflated 0.12) | +vol_63 -dvol_63 -fx_beta_252 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "born",
+   "id": "S0051",
+   "detail": "evolved | train IR 0.89 (deflated 0.13) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "retired",
+   "id": "S0051",
+   "detail": "outranked (post IR 0.06) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "retired",
+   "id": "S0050",
+   "detail": "outranked (post IR 0.06) | +vol_63 -dvol_63 -fx_beta_252 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-04-28",
+   "event": "retired",
+   "id": "S0049",
+   "detail": "outranked (post IR 0.05) | +vol_63 -dvol_63 +rev_g | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "born",
+   "id": "S0052",
+   "detail": "evolved | train IR 0.79 (deflated 0.02) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "born",
+   "id": "S0053",
+   "detail": "evolved | train IR 0.73 (deflated 0.00) | +vol_63 +beta_252 +zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "born",
+   "id": "S0054",
+   "detail": "evolved | train IR 0.64 (deflated 0.00) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "retired",
+   "id": "S0052",
+   "detail": "outranked (post IR 0.01) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "retired",
+   "id": "S0053",
+   "detail": "outranked (post IR 0.00) | +vol_63 +beta_252 +zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-07-31",
+   "event": "retired",
+   "id": "S0054",
+   "detail": "outranked (post IR 0.00) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "born",
+   "id": "S0055",
+   "detail": "evolved | train IR 0.98 (deflated 0.22) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "born",
+   "id": "S0056",
+   "detail": "evolved | train IR 0.90 (deflated 0.14) | +vol_63 +ln_amihud_63 -dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "born",
+   "id": "S0057",
+   "detail": "evolved | train IR 0.99 (deflated 0.23) | +vol_63 -trend_200 +beta_252 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "retired",
+   "id": "S0057",
+   "detail": "outranked (post IR 0.11) | +vol_63 -trend_200 +beta_252 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "retired",
+   "id": "S0055",
+   "detail": "outranked (post IR 0.11) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2023-10-31",
+   "event": "retired",
+   "id": "S0056",
+   "detail": "outranked (post IR 0.07) | +vol_63 +ln_amihud_63 -dvol_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "born",
+   "id": "S0058",
+   "detail": "evolved | train IR 1.11 (deflated 0.34) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "born",
+   "id": "S0059",
+   "detail": "evolved | train IR 1.04 (deflated 0.28) | +vol_63 -zero_frac_63 -ml_pred | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "born",
+   "id": "S0060",
+   "detail": "evolved | train IR 1.15 (deflated 0.38) | +vol_63 +beta_252 -zero_frac_63 | top8 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "retired",
+   "id": "S0060",
+   "detail": "outranked (post IR 0.19) | +vol_63 +beta_252 -zero_frac_63 | top8 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "retired",
+   "id": "S0058",
+   "detail": "outranked (post IR 0.17) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-01-31",
+   "event": "retired",
+   "id": "S0059",
+   "detail": "outranked (post IR 0.14) | +vol_63 -zero_frac_63 -ml_pred | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "born",
+   "id": "S0061",
+   "detail": "evolved | train IR 1.40 (deflated 0.63) | +vol_63 -ml_pred -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "born",
+   "id": "S0062",
+   "detail": "evolved | train IR 1.42 (deflated 0.66) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "born",
+   "id": "S0063",
+   "detail": "evolved | train IR 1.25 (deflated 0.49) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "retired",
+   "id": "S0061",
+   "detail": "outranked (post IR 0.32) | +vol_63 -ml_pred -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "retired",
+   "id": "S0023",
+   "detail": "outranked (post IR 0.27) | +vol_63 -zero_frac_63 -ml_pred | top4 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2024-04-30",
+   "event": "retired",
+   "id": "S0063",
+   "detail": "outranked (post IR 0.24) | +vol_63 +beta_252 -dvol_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "born",
+   "id": "S0064",
+   "detail": "evolved | train IR 1.39 (deflated 0.63) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "born",
+   "id": "S0065",
+   "detail": "evolved | train IR 0.95 (deflated 0.19) | +vol_63 | top5 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "born",
+   "id": "S0066",
+   "detail": "evolved | train IR 1.12 (deflated 0.35) | +vol_63 +beta_252 -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "retired",
+   "id": "S0020",
+   "detail": "outranked (post IR 0.19) | +vol_63 -ml_pred -zero_frac_63 | top4 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "retired",
+   "id": "S0066",
+   "detail": "outranked (post IR 0.18) | +vol_63 +beta_252 -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-07-31",
+   "event": "retired",
+   "id": "S0065",
+   "detail": "outranked (post IR 0.10) | +vol_63 | top5 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "born",
+   "id": "S0067",
+   "detail": "evolved | train IR 1.19 (deflated 0.43) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "born",
+   "id": "S0068",
+   "detail": "evolved | train IR 1.03 (deflated 0.26) | +vol_63 -ml_pred +rev_g | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "born",
+   "id": "S0069",
+   "detail": "evolved | train IR 1.03 (deflated 0.26) | +vol_63 +beta_252 -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "retired",
+   "id": "S0067",
+   "detail": "outranked (post IR 0.21) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "retired",
+   "id": "S0068",
+   "detail": "outranked (post IR 0.13) | +vol_63 -ml_pred +rev_g | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2024-10-31",
+   "event": "retired",
+   "id": "S0069",
+   "detail": "outranked (post IR 0.13) | +vol_63 +beta_252 -zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "promoted",
+   "id": "S0062",
+   "detail": "live excess +4.8% over 8m"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "born",
+   "id": "S0070",
+   "detail": "evolved | train IR 1.04 (deflated 0.27) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold1m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "born",
+   "id": "S0071",
+   "detail": "evolved | train IR 1.02 (deflated 0.25) | +vol_63 +beta_252 -zero_frac_63 | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "born",
+   "id": "S0072",
+   "detail": "evolved | train IR 0.75 (deflated 0.00) | +vol_63 -dvol_63 -ml_pred | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "retired",
+   "id": "S0071",
+   "detail": "outranked (post IR 0.13) | +vol_63 +beta_252 -zero_frac_63 | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "retired",
+   "id": "S0072",
+   "detail": "outranked (post IR 0.00) | +vol_63 -dvol_63 -ml_pred | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-01-31",
+   "event": "retired",
+   "id": "S0064",
+   "detail": "outranked (post IR -0.02) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "born",
+   "id": "S0073",
+   "detail": "evolved | train IR 1.19 (deflated 0.41) | +vol_63 +beta_252 +dvol_63 | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "born",
+   "id": "S0074",
+   "detail": "evolved | train IR 1.03 (deflated 0.26) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold1m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "born",
+   "id": "S0075",
+   "detail": "evolved | train IR 1.02 (deflated 0.25) | +vol_63 +beta_252 +dvol_63 | top4 hold3m equal | regime>-0.10->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "retired",
+   "id": "S0075",
+   "detail": "outranked (post IR 0.12) | +vol_63 +beta_252 +dvol_63 | top4 hold3m equal | regime>-0.10->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "retired",
+   "id": "S0062",
+   "detail": "outranked (post IR 0.01) | +vol_63 -ml_pred +beta_252 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-04-30",
+   "event": "retired",
+   "id": "S0070",
+   "detail": "outranked (post IR -0.08) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold1m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "born",
+   "id": "S0076",
+   "detail": "evolved | train IR 1.15 (deflated 0.39) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "born",
+   "id": "S0077",
+   "detail": "evolved | train IR 1.34 (deflated 0.58) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "born",
+   "id": "S0078",
+   "detail": "evolved | train IR 1.05 (deflated 0.28) | +dist_52w_high +idio_vol_126 -mom_126 | top6 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "retired",
+   "id": "S0078",
+   "detail": "outranked (post IR 0.14) | +dist_52w_high +idio_vol_126 -mom_126 | top6 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "retired",
+   "id": "S0074",
+   "detail": "outranked (post IR -0.18) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold1m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-07-31",
+   "event": "retired",
+   "id": "S0073",
+   "detail": "outranked (post IR -0.32) | +vol_63 +beta_252 +dvol_63 | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "born",
+   "id": "S0079",
+   "detail": "evolved | train IR 1.47 (deflated 0.70) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "born",
+   "id": "S0080",
+   "detail": "evolved | train IR 1.43 (deflated 0.66) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "born",
+   "id": "S0081",
+   "detail": "evolved | train IR 1.15 (deflated 0.38) | +dist_52w_high -mom_126 +idio_vol_126 | top12 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "retired",
+   "id": "S0081",
+   "detail": "outranked (post IR 0.19) | +dist_52w_high -mom_126 +idio_vol_126 | top12 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "retired",
+   "id": "S0077",
+   "detail": "outranked (post IR -0.07) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m invvol | regime>+0.00->50%"
+  },
+  {
+   "date": "2025-10-31",
+   "event": "retired",
+   "id": "S0076",
+   "detail": "outranked (post IR -0.19) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "born",
+   "id": "S0082",
+   "detail": "evolved | train IR 1.64 (deflated 0.87) | +dist_52w_high +mom_252_21 +idio_vol_126 | top12 hold3m invvol | regime>-0.10->0%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "born",
+   "id": "S0083",
+   "detail": "evolved | train IR 1.09 (deflated 0.31) | -ml_pred -ln_amihud_63 | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "born",
+   "id": "S0084",
+   "detail": "evolved | train IR 1.37 (deflated 0.60) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "retired",
+   "id": "S0024",
+   "detail": "outranked (post IR 0.13) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "retired",
+   "id": "S0031",
+   "detail": "outranked (post IR 0.11) | +vol_63 -dvol_63 -zero_frac_63 | top4 hold2m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-01-30",
+   "event": "retired",
+   "id": "S0079",
+   "detail": "outranked (post IR 0.10) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "born",
+   "id": "S0085",
+   "detail": "evolved | train IR 1.39 (deflated 0.63) | -ln_amihud_63 +zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "born",
+   "id": "S0086",
+   "detail": "evolved | train IR 1.55 (deflated 0.78) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "born",
+   "id": "S0087",
+   "detail": "evolved | train IR 1.18 (deflated 0.41) | -ln_amihud_63 +ma_50_200 +zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "retired",
+   "id": "S0087",
+   "detail": "outranked (post IR 0.20) | -ln_amihud_63 +ma_50_200 +zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "retired",
+   "id": "S0082",
+   "detail": "outranked (post IR -0.11) | +dist_52w_high +mom_252_21 +idio_vol_126 | top12 hold3m invvol | regime>-0.10->0%"
+  },
+  {
+   "date": "2026-04-30",
+   "event": "retired",
+   "id": "S0083",
+   "detail": "outranked (post IR -0.15) | -ml_pred -ln_amihud_63 | top4 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "promoted",
+   "id": "S0080",
+   "detail": "live excess +7.4% over 8m"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "born",
+   "id": "S0088",
+   "detail": "evolved | train IR 1.43 (deflated 0.66) | -ln_amihud_63 +zero_frac_63 | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "born",
+   "id": "S0089",
+   "detail": "evolved | train IR 1.32 (deflated 0.55) | -ln_amihud_63 +zero_frac_63 | top5 hold3m invvol | regime>-0.10->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "born",
+   "id": "S0090",
+   "detail": "evolved | train IR 1.15 (deflated 0.38) | -ln_amihud_63 +dist_52w_high | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "retired",
+   "id": "S0009",
+   "detail": "outranked (post IR 0.33) | -ml_pred -ln_amihud_63 | top4 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "retired",
+   "id": "S0089",
+   "detail": "outranked (post IR 0.28) | -ln_amihud_63 +zero_frac_63 | top5 hold3m invvol | regime>-0.10->0%"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "retired",
+   "id": "S0090",
+   "detail": "outranked (post IR 0.19) | -ln_amihud_63 +dist_52w_high | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "retired",
+   "id": "S0085",
+   "detail": "live excess -13.3% vs benchmark | -ln_amihud_63 +zero_frac_63 | top5 hold3m invvol | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "born",
+   "id": "S0091",
+   "detail": "evolved | train IR 1.02 (deflated 0.25) | +ln_amihud_63 +zero_frac_63 | top6 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "born",
+   "id": "S0092",
+   "detail": "evolved | train IR 1.14 (deflated 0.38) | -ln_amihud_63 +zero_frac_63 | top5 hold3m equal | regime>-0.10->0%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "born",
+   "id": "S0093",
+   "detail": "evolved | train IR 0.86 (deflated 0.10) | +ln_amihud_63 +zero_frac_63 -vol_63 | top5 hold3m equal | regime>+0.00->0%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "retired",
+   "id": "S0086",
+   "detail": "outranked (post IR -0.24) | +dist_52w_high +idio_vol_126 -mom_126 | top12 hold3m equal | regime>+0.00->50%"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "retired",
+   "id": "S0088",
+   "detail": "outranked (post IR -0.75) | -ln_amihud_63 +zero_frac_63 | top5 hold3m equal | regime>+0.00->0%"
+  }
+ ],
+ "recs": {
+  "S0001": {
+   "id": "S0001",
+   "born_row": 49,
+   "born_date": "2019-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.00400158984328755,
+   "prior_sigma": 0.038361487393594594,
+   "train_ir": 1.6920940399958695,
+   "status": "retired",
+   "retired_date": "2020-01-31",
+   "retired_reason": "live excess -15.0% vs benchmark",
+   "live_n": 8,
+   "live_excess_cum": -0.1502185805671299,
+   "post_ir": -0.3590637124485033,
+   "genome": {
+    "w": {
+     "ln_amihud_63": 0.3934728591007947
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": null,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0002": {
+   "id": "S0002",
+   "born_row": 49,
+   "born_date": "2019-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0009035227518733463,
+   "prior_sigma": 0.043084820994128276,
+   "train_ir": 1.1146844400972793,
+   "status": "retired",
+   "retired_date": "2020-01-31",
+   "retired_reason": "live excess -11.4% vs benchmark",
+   "live_n": 8,
+   "live_excess_cum": -0.11399580014229818,
+   "post_ir": -0.3635366427444322,
+   "genome": {
+    "w": {
+     "ln_amihud_63": 0.8915520246121871
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0003": {
+   "id": "S0003",
+   "born_row": 49,
+   "born_date": "2019-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.04220015268288107,
+   "train_ir": 0.8198732449325202,
+   "status": "retired",
+   "retired_date": "2019-10-31",
+   "retired_reason": "outranked (post IR -0.93)",
+   "live_n": 5,
+   "live_excess_cum": -0.24454924241613596,
+   "post_ir": -0.9334222236264774,
+   "genome": {
+    "w": {
+     "ln_amihud_63": 0.3934728591007947
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": -0.1,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0004": {
+   "id": "S0004",
+   "born_row": 52,
+   "born_date": "2019-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.04735210312525856,
+   "train_ir": 0.9080930465725141,
+   "status": "retired",
+   "retired_date": "2020-04-30",
+   "retired_reason": "live excess -10.1% vs benchmark",
+   "live_n": 8,
+   "live_excess_cum": -0.1006135358784839,
+   "post_ir": -0.37676695275072,
+   "genome": {
+    "w": {
+     "ln_amihud_63": 0.3934728591007947
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": null,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0005": {
+   "id": "S0005",
+   "born_row": 52,
+   "born_date": "2019-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.05338448191406103,
+   "train_ir": 0.833198717461943,
+   "status": "retired",
+   "retired_date": "2022-01-31",
+   "retired_reason": "outranked (post IR 0.13)",
+   "live_n": 29,
+   "live_excess_cum": 0.068230920353907,
+   "post_ir": 0.12805462022846859,
+   "genome": {
+    "w": {
+     "zero_frac_63": -0.6132979608568072,
+     "ln_amihud_63": 0.2726046002631526
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": null,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0006": {
+   "id": "S0006",
+   "born_row": 52,
+   "born_date": "2019-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.049185225949932146,
+   "train_ir": 0.6850969534767728,
+   "status": "retired",
+   "retired_date": "2020-04-30",
+   "retired_reason": "outranked (post IR -0.21)",
+   "live_n": 8,
+   "live_excess_cum": -0.05607291557468631,
+   "post_ir": -0.21499691398751367,
+   "genome": {
+    "w": {
+     "rsi_14": 0.3963857359852783,
+     "ln_amihud_63": 0.3934728591007947
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": null,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0007": {
+   "id": "S0007",
+   "born_row": 55,
+   "born_date": "2019-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0012417333463993787,
+   "prior_sigma": 0.04657018652470328,
+   "train_ir": 1.096332236231234,
+   "status": "retired",
+   "retired_date": "2021-01-29",
+   "retired_reason": "posterior IR -0.11 <= 0 after 14m",
+   "live_n": 14,
+   "live_excess_cum": -0.052298791166696876,
+   "post_ir": -0.110781128600209,
+   "genome": {
+    "w": {
+     "ln_amihud_63": 0.025681510073877756,
+     "ml_pred": -0.3111503877824777
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": null,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0008": {
+   "id": "S0008",
+   "born_row": 55,
+   "born_date": "2019-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.052257098635894644,
+   "train_ir": 0.8956959803316915,
+   "status": "retired",
+   "retired_date": "2021-01-29",
+   "retired_reason": "posterior IR -0.09 <= 0 after 14m",
+   "live_n": 14,
+   "live_excess_cum": -0.03318346440091681,
+   "post_ir": -0.09360689602642144,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "zero_frac_63": -0.6132979608568072
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0009": {
+   "id": "S0009",
+   "born_row": 55,
+   "born_date": "2019-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.062095755067427115,
+   "train_ir": 0.6460069067470614,
+   "status": "retired",
+   "retired_date": "2026-07-31",
+   "retired_reason": "outranked (post IR 0.33)",
+   "live_n": 80,
+   "live_excess_cum": 0.36224183466170445,
+   "post_ir": 0.32681194145298764,
+   "genome": {
+    "w": {
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0010": {
+   "id": "S0010",
+   "born_row": 58,
+   "born_date": "2020-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0021853375900935572,
+   "prior_sigma": 0.04794113855171679,
+   "train_ir": 1.196952690737116,
+   "status": "retired",
+   "retired_date": "2020-07-31",
+   "retired_reason": "outranked (post IR -0.43)",
+   "live_n": 5,
+   "live_excess_cum": -0.1316644714479681,
+   "post_ir": -0.4283546227926703,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.6132979608568072
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0011": {
+   "id": "S0011",
+   "born_row": 58,
+   "born_date": "2020-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0007444100941407616,
+   "prior_sigma": 0.05226000999870624,
+   "train_ir": 0.9798268842628068,
+   "status": "retired",
+   "retired_date": "2020-04-30",
+   "retired_reason": "outranked (post IR -0.27)",
+   "live_n": 2,
+   "live_excess_cum": -0.06694139833693878,
+   "post_ir": -0.2746531369783645,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "zero_frac_63": -0.6132979608568072
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0012": {
+   "id": "S0012",
+   "born_row": 58,
+   "born_date": "2020-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.06956330516819265,
+   "train_ir": 0.7939303225162854,
+   "status": "retired",
+   "retired_date": "2020-01-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "zero_frac_63": -0.6538891417632445,
+     "ln_amihud_63": -0.13659443404766464
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0013": {
+   "id": "S0013",
+   "born_row": 61,
+   "born_date": "2020-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.003043791773766427,
+   "prior_sigma": 0.05232569436398435,
+   "train_ir": 1.2505256910582951,
+   "status": "retired",
+   "retired_date": "2020-07-31",
+   "retired_reason": "outranked (post IR -0.43)",
+   "live_n": 2,
+   "live_excess_cum": -0.128295187611681,
+   "post_ir": -0.4339571361482118,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.12805596152674625,
+     "ml_pred": -0.35310737412902693
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0014": {
+   "id": "S0014",
+   "born_row": 61,
+   "born_date": "2020-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0027227600089111638,
+   "prior_sigma": 0.05346958140224115,
+   "train_ir": 1.2003069277674454,
+   "status": "retired",
+   "retired_date": "2020-10-30",
+   "retired_reason": "outranked (post IR -0.48)",
+   "live_n": 5,
+   "live_excess_cum": -0.15191187104378615,
+   "post_ir": -0.4755477002902149,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0015": {
+   "id": "S0015",
+   "born_row": 61,
+   "born_date": "2020-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0022057517443710645,
+   "prior_sigma": 0.053500518109458335,
+   "train_ir": 1.1331514535672393,
+   "status": "retired",
+   "retired_date": "2020-07-31",
+   "retired_reason": "outranked (post IR -0.55)",
+   "live_n": 2,
+   "live_excess_cum": -0.14450345899779582,
+   "post_ir": -0.545900304190226,
+   "genome": {
+    "w": {
+     "mom_63": 0.7299540889239626,
+     "vol_63": 0.7601791624687186,
+     "zero_frac_63": -0.6132979608568072
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0016": {
+   "id": "S0016",
+   "born_row": 64,
+   "born_date": "2020-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017719047452417229,
+   "prior_sigma": 0.0562757624920211,
+   "train_ir": 1.0445543145079044,
+   "status": "retired",
+   "retired_date": "2021-01-29",
+   "retired_reason": "outranked (post IR -0.35)",
+   "live_n": 5,
+   "live_excess_cum": -0.1064704938717489,
+   "post_ir": -0.3549030365217237,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.6132979608568072,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0017": {
+   "id": "S0017",
+   "born_row": 64,
+   "born_date": "2020-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0011344046843821782,
+   "prior_sigma": 0.05262200354742526,
+   "train_ir": 0.9757676685801681,
+   "status": "retired",
+   "retired_date": "2020-10-30",
+   "retired_reason": "outranked (post IR -0.42)",
+   "live_n": 2,
+   "live_excess_cum": -0.1023110127685205,
+   "post_ir": -0.4170708159430439,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0018": {
+   "id": "S0018",
+   "born_row": 64,
+   "born_date": "2020-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0003666758421538668,
+   "prior_sigma": 0.05300449122311182,
+   "train_ir": 0.8743402619081366,
+   "status": "retired",
+   "retired_date": "2020-10-30",
+   "retired_reason": "outranked (post IR -0.22)",
+   "live_n": 2,
+   "live_excess_cum": -0.05179414292434812,
+   "post_ir": -0.2212450598133415,
+   "genome": {
+    "w": {
+     "mom_63": 0.7299540889239626,
+     "vol_63": 0.7601791624687186,
+     "zero_frac_63": -0.6132979608568072
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0019": {
+   "id": "S0019",
+   "born_row": 67,
+   "born_date": "2020-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0019554112670243234,
+   "prior_sigma": 0.05841646709258889,
+   "train_ir": 1.0358683890368086,
+   "status": "retired",
+   "retired_date": "2021-04-30",
+   "retired_reason": "outranked (post IR -0.16)",
+   "live_n": 5,
+   "live_excess_cum": -0.06417104008825286,
+   "post_ir": -0.16053572806876054,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0020": {
+   "id": "S0020",
+   "born_row": 67,
+   "born_date": "2020-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0013432626701638866,
+   "prior_sigma": 0.05386543131345903,
+   "train_ir": 0.976727499264104,
+   "status": "retired",
+   "retired_date": "2024-07-31",
+   "retired_reason": "outranked (post IR 0.19)",
+   "live_n": 44,
+   "live_excess_cum": 0.11458817486019968,
+   "post_ir": 0.1947146895265835,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "dvol_63": -0.291516536725415,
+     "zero_frac_63": -0.6132979608568072,
+     "ml_pred": -0.6362856348679788
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0021": {
+   "id": "S0021",
+   "born_row": 67,
+   "born_date": "2020-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0012107927648056043,
+   "prior_sigma": 0.0719669303256546,
+   "train_ir": 0.9205183954489289,
+   "status": "retired",
+   "retired_date": "2021-04-30",
+   "retired_reason": "outranked (post IR -0.06)",
+   "live_n": 5,
+   "live_excess_cum": -0.0325872856011723,
+   "post_ir": -0.056574097665085206,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0022": {
+   "id": "S0022",
+   "born_row": 70,
+   "born_date": "2021-01-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0012988319387373336,
+   "prior_sigma": 0.05681372090563195,
+   "train_ir": 0.9374009168337998,
+   "status": "retired",
+   "retired_date": "2022-07-29",
+   "retired_reason": "posterior IR -0.07 <= 0 after 17m",
+   "live_n": 17,
+   "live_excess_cum": -0.040715453535131924,
+   "post_ir": -0.06997277342319536,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0023": {
+   "id": "S0023",
+   "born_row": 70,
+   "born_date": "2021-01-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0008591010626770165,
+   "prior_sigma": 0.05662557544806479,
+   "train_ir": 0.8841256078976609,
+   "status": "retired",
+   "retired_date": "2024-04-30",
+   "retired_reason": "outranked (post IR 0.27)",
+   "live_n": 38,
+   "live_excess_cum": 0.17090839154309853,
+   "post_ir": 0.2729711352446139,
+   "genome": {
+    "w": {
+     "vol_63": 0.8177269887016703,
+     "dvol_63": -0.291516536725415,
+     "zero_frac_63": -0.6132979608568072,
+     "ml_pred": -0.44863541507671023
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0024": {
+   "id": "S0024",
+   "born_row": 70,
+   "born_date": "2021-01-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0014781501813384407,
+   "prior_sigma": 0.07033536269924745,
+   "train_ir": 0.9246149864016499,
+   "status": "retired",
+   "retired_date": "2026-01-30",
+   "retired_reason": "outranked (post IR 0.13)",
+   "live_n": 59,
+   "live_excess_cum": 0.12578685184673977,
+   "post_ir": 0.12681709129755436,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ey": -0.3325362316518765,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0025": {
+   "id": "S0025",
+   "born_row": 73,
+   "born_date": "2021-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001504443568961725,
+   "prior_sigma": 0.07156150696807219,
+   "train_ir": 0.910649092266467,
+   "status": "active",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 66,
+   "live_excess_cum": 0.3616779342516411,
+   "post_ir": 0.3033717682472759,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0026": {
+   "id": "S0026",
+   "born_row": 73,
+   "born_date": "2021-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002019452223020829,
+   "prior_sigma": 0.053786456295973534,
+   "train_ir": 1.0251214008670422,
+   "status": "retired",
+   "retired_date": "2021-07-30",
+   "retired_reason": "outranked (post IR -0.04)",
+   "live_n": 2,
+   "live_excess_cum": -0.032557722403793114,
+   "post_ir": -0.03829456635486198,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "dvol_63": -0.291516536725415,
+     "zero_frac_63": -0.6132979608568072,
+     "ml_pred": -0.6362856348679788
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0027": {
+   "id": "S0027",
+   "born_row": 73,
+   "born_date": "2021-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0006720515800778384,
+   "prior_sigma": 0.06809665861408078,
+   "train_ir": 0.8333719072436384,
+   "status": "retired",
+   "retired_date": "2021-04-30",
+   "retired_reason": "outranked (post IR 0.03)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.03418750657351833,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.5816729550688788,
+     "zero_frac_63": -0.37783072218589986,
+     "ey": -0.3325362316518765,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0028": {
+   "id": "S0028",
+   "born_row": 76,
+   "born_date": "2021-07-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0011830175354633644,
+   "prior_sigma": 0.07099144894053754,
+   "train_ir": 0.881566510203247,
+   "status": "retired",
+   "retired_date": "2021-07-30",
+   "retired_reason": "outranked (post IR 0.06)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.05772657153071337,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.450520640626622,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0029": {
+   "id": "S0029",
+   "born_row": 76,
+   "born_date": "2021-07-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0016104954377096218,
+   "prior_sigma": 0.058860657604185296,
+   "train_ir": 0.9556769933064452,
+   "status": "retired",
+   "retired_date": "2021-10-29",
+   "retired_reason": "outranked (post IR 0.06)",
+   "live_n": 2,
+   "live_excess_cum": -0.0047982797517407555,
+   "post_ir": 0.061070757827303826,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0030": {
+   "id": "S0030",
+   "born_row": 76,
+   "born_date": "2021-07-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0009616329474520235,
+   "prior_sigma": 0.04829346091691149,
+   "train_ir": 0.9040696942797541,
+   "status": "retired",
+   "retired_date": "2021-07-30",
+   "retired_reason": "outranked (post IR 0.07)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.06897816356896697,
+   "genome": {
+    "w": {
+     "vol_63": 0.8227700265809781,
+     "dvol_63": -0.291516536725415,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.6362856348679788
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0031": {
+   "id": "S0031",
+   "born_row": 79,
+   "born_date": "2021-10-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0034473186608348495,
+   "prior_sigma": 0.06612554010149933,
+   "train_ir": 1.1265589450738205,
+   "status": "retired",
+   "retired_date": "2026-01-30",
+   "retired_reason": "outranked (post IR 0.11)",
+   "live_n": 50,
+   "live_excess_cum": 0.06898327697108378,
+   "post_ir": 0.11377850626667943,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0032": {
+   "id": "S0032",
+   "born_row": 79,
+   "born_date": "2021-10-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017898749569396576,
+   "prior_sigma": 0.061940114524186296,
+   "train_ir": 0.9655746922316081,
+   "status": "retired",
+   "retired_date": "2021-10-29",
+   "retired_reason": "outranked (post IR 0.10)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.10010166718061518,
+   "genome": {
+    "w": {
+     "vol_63": 0.8177269887016703,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.2562457772886085,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0033": {
+   "id": "S0033",
+   "born_row": 79,
+   "born_date": "2021-10-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017392168531026558,
+   "prior_sigma": 0.06804280796488384,
+   "train_ir": 0.9424605783216283,
+   "status": "retired",
+   "retired_date": "2021-10-29",
+   "retired_reason": "outranked (post IR 0.09)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.08854461022562529,
+   "genome": {
+    "w": {
+     "vol_63": 0.7024189038885387,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "eps_g": -0.36801446629889834,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0034": {
+   "id": "S0034",
+   "born_row": 82,
+   "born_date": "2022-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0035658495710416843,
+   "prior_sigma": 0.06834005848043115,
+   "train_ir": 1.1240044519607657,
+   "status": "active",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 57,
+   "live_excess_cum": 0.37051452670123763,
+   "post_ir": 0.3605050802663891,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.5375953252813013,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0035": {
+   "id": "S0035",
+   "born_row": 82,
+   "born_date": "2022-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017072162295508377,
+   "prior_sigma": 0.06140539240666959,
+   "train_ir": 0.9551250198519124,
+   "status": "retired",
+   "retired_date": "2022-01-31",
+   "retired_reason": "outranked (post IR 0.10)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.09631027938083975,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": 0.41855410566146645,
+     "ml_pred": -0.49265282042559744
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0036": {
+   "id": "S0036",
+   "born_row": 82,
+   "born_date": "2022-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0018384243951415794,
+   "prior_sigma": 0.06596276255698844,
+   "train_ir": 0.9555979177512255,
+   "status": "retired",
+   "retired_date": "2022-01-31",
+   "retired_reason": "outranked (post IR 0.10)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.09654672833049627,
+   "genome": {
+    "w": {
+     "vol_63": 0.8177269887016703,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0037": {
+   "id": "S0037",
+   "born_row": 85,
+   "born_date": "2022-04-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.00286509929672871,
+   "prior_sigma": 0.06663539284669555,
+   "train_ir": 1.055715643060886,
+   "status": "retired",
+   "retired_date": "2022-04-29",
+   "retired_reason": "outranked (post IR 0.15)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.14894479761171167,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "dy": -0.3615698774501886,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0038": {
+   "id": "S0038",
+   "born_row": 85,
+   "born_date": "2022-04-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0007586421345376596,
+   "prior_sigma": 0.047454863459896676,
+   "train_ir": 0.8685844928927035,
+   "status": "retired",
+   "retired_date": "2022-04-29",
+   "retired_reason": "outranked (post IR 0.06)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0553792225276204,
+   "genome": {
+    "w": {
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 15,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0039": {
+   "id": "S0039",
+   "born_row": 85,
+   "born_date": "2022-04-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0002824729513014283,
+   "prior_sigma": 0.05302698976489649,
+   "train_ir": 0.7947323482393677,
+   "status": "retired",
+   "retired_date": "2022-04-29",
+   "retired_reason": "outranked (post IR 0.02)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.018453150200952503,
+   "genome": {
+    "w": {
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.5117717962871863
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0040": {
+   "id": "S0040",
+   "born_row": 88,
+   "born_date": "2022-07-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.0680351793082446,
+   "train_ir": 0.7183953693702605,
+   "status": "retired",
+   "retired_date": "2022-07-29",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.5375953252813013,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0041": {
+   "id": "S0041",
+   "born_row": 88,
+   "born_date": "2022-07-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 5.0926159778892746e-05,
+   "prior_sigma": 0.05618968023508771,
+   "train_ir": 0.7667938500717727,
+   "status": "active",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 51,
+   "live_excess_cum": 0.26205021372488574,
+   "post_ir": 0.2981948271507334,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0042": {
+   "id": "S0042",
+   "born_row": 88,
+   "born_date": "2022-07-29",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.061016124319649895,
+   "train_ir": 0.6156903753761277,
+   "status": "retired",
+   "retired_date": "2022-07-29",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.11055090222118946,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0043": {
+   "id": "S0043",
+   "born_row": 91,
+   "born_date": "2022-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.05712415206349899,
+   "train_ir": 0.7515916296122612,
+   "status": "retired",
+   "retired_date": "2022-10-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.5499393259839269,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0044": {
+   "id": "S0044",
+   "born_row": 91,
+   "born_date": "2022-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.050790140506041435,
+   "train_ir": 0.5420883168236863,
+   "status": "retired",
+   "retired_date": "2022-10-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.5687888396117025
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0045": {
+   "id": "S0045",
+   "born_row": 91,
+   "born_date": "2022-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.05527204168659591,
+   "train_ir": 0.5489884949015725,
+   "status": "retired",
+   "retired_date": "2022-10-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.3957852694840489,
+     "fx_beta_252": -0.3653551147799978,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0046": {
+   "id": "S0046",
+   "born_row": 94,
+   "born_date": "2023-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0007885277829756152,
+   "prior_sigma": 0.06595558582328381,
+   "train_ir": 0.8391571176334363,
+   "status": "retired",
+   "retired_date": "2023-01-31",
+   "retired_reason": "outranked (post IR 0.04)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.04141484504292775,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.550356526868923,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0047": {
+   "id": "S0047",
+   "born_row": 94,
+   "born_date": "2023-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0006592533664451474,
+   "prior_sigma": 0.05222845091914713,
+   "train_ir": 0.8437786389581193,
+   "status": "retired",
+   "retired_date": "2023-01-31",
+   "retired_reason": "outranked (post IR 0.04)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.043725605705269295,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.6627583330284681,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0048": {
+   "id": "S0048",
+   "born_row": 94,
+   "born_date": "2023-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.00040202788276084305,
+   "prior_sigma": 0.05485547323563279,
+   "train_ir": 0.8071032337108063,
+   "status": "retired",
+   "retired_date": "2023-01-31",
+   "retired_reason": "outranked (post IR 0.03)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.02538790308161276,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "fx_beta_252": -0.9825046643255715,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0049": {
+   "id": "S0049",
+   "born_row": 97,
+   "born_date": "2023-04-28",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.000847663685023874,
+   "prior_sigma": 0.0649604285499687,
+   "train_ir": 0.8499002306599878,
+   "status": "retired",
+   "retired_date": "2023-04-28",
+   "retired_reason": "outranked (post IR 0.05)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.04520279816390217,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "rev_g": 0.37834995174830544,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0050": {
+   "id": "S0050",
+   "born_row": 97,
+   "born_date": "2023-04-28",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0010006869805092272,
+   "prior_sigma": 0.05627604426726918,
+   "train_ir": 0.8826902651041737,
+   "status": "retired",
+   "retired_date": "2023-04-28",
+   "retired_reason": "outranked (post IR 0.06)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.06159781538599512,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.3970514889433699,
+     "zero_frac_63": -0.37783072218589986,
+     "fx_beta_252": -0.3926268073812287,
+     "ey": -0.3325362316518765,
+     "ml_pred": -0.10029487489676714
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0051": {
+   "id": "S0051",
+   "born_row": 97,
+   "born_date": "2023-04-28",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0009639426130668543,
+   "prior_sigma": 0.052347620707055884,
+   "train_ir": 0.8870723586956868,
+   "status": "retired",
+   "retired_date": "2023-04-28",
+   "retired_reason": "outranked (post IR 0.06)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.06378886218175166,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "eps_g": -0.41208564689542726,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0052": {
+   "id": "S0052",
+   "born_row": 100,
+   "born_date": "2023-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.00014680210532440626,
+   "prior_sigma": 0.04516041037336667,
+   "train_ir": 0.7850258423600457,
+   "status": "retired",
+   "retired_date": "2023-07-31",
+   "retired_reason": "outranked (post IR 0.01)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.011260690634906369,
+   "genome": {
+    "w": {
+     "vol_63": 0.8086764238650583,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": 0.29352307951555867,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0053": {
+   "id": "S0053",
+   "born_row": 100,
+   "born_date": "2023-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.049701791100754796,
+   "train_ir": 0.7310956770897928,
+   "status": "retired",
+   "retired_date": "2023-07-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "beta_252": 0.7471506890267783,
+     "zero_frac_63": 0.29352307951555867,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0054": {
+   "id": "S0054",
+   "born_row": 100,
+   "born_date": "2023-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.06140542861662966,
+   "train_ir": 0.637094578777523,
+   "status": "retired",
+   "retired_date": "2023-07-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.47523875939180005,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0055": {
+   "id": "S0055",
+   "born_row": 103,
+   "born_date": "2023-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0014779902658917743,
+   "prior_sigma": 0.04699344321907852,
+   "train_ir": 0.9819492638764682,
+   "status": "retired",
+   "retired_date": "2023-10-31",
+   "retired_reason": "outranked (post IR 0.11)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.10894942180263523,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.7898549446486833,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0056": {
+   "id": "S0056",
+   "born_row": 103,
+   "born_date": "2023-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0011070504994671933,
+   "prior_sigma": 0.05603430975569889,
+   "train_ir": 0.9009285379802621,
+   "status": "retired",
+   "retired_date": "2023-10-31",
+   "retired_reason": "outranked (post IR 0.07)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.06843905885453216,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ln_amihud_63": 0.44942883014534,
+     "ml_pred": -0.4060553663981907
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0057": {
+   "id": "S0057",
+   "born_row": 103,
+   "born_date": "2023-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001467824212006936,
+   "prior_sigma": 0.044893601889003716,
+   "train_ir": 0.9905723302806941,
+   "status": "retired",
+   "retired_date": "2023-10-31",
+   "retired_reason": "outranked (post IR 0.11)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.11326095500474821,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "trend_200": -0.6679586684485261,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0058": {
+   "id": "S0058",
+   "born_row": 106,
+   "born_date": "2024-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002260843636613013,
+   "prior_sigma": 0.04565961512096359,
+   "train_ir": 1.1084225234317475,
+   "status": "retired",
+   "retired_date": "2024-01-31",
+   "retired_reason": "outranked (post IR 0.17)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.17152558278068492,
+   "genome": {
+    "w": {
+     "vol_63": 0.9185860037929722,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0059": {
+   "id": "S0059",
+   "born_row": 106,
+   "born_date": "2024-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0020163402352180626,
+   "prior_sigma": 0.05015691950924067,
+   "train_ir": 1.0438895577051694,
+   "status": "retired",
+   "retired_date": "2024-01-31",
+   "retired_reason": "outranked (post IR 0.14)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.1392590999173959,
+   "genome": {
+    "w": {
+     "vol_63": 0.8177269887016703,
+     "zero_frac_63": -0.6132979608568072,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.48875106229489274
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0060": {
+   "id": "S0060",
+   "born_row": 106,
+   "born_date": "2024-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002133417457206375,
+   "prior_sigma": 0.038838919335331706,
+   "train_ir": 1.1459367796558737,
+   "status": "retired",
+   "retired_date": "2024-01-31",
+   "retired_reason": "outranked (post IR 0.19)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.19028271089274804,
+   "genome": {
+    "w": {
+     "vol_63": 0.8177269887016703,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 8,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0061": {
+   "id": "S0061",
+   "born_row": 109,
+   "born_date": "2024-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.004374310577359424,
+   "prior_sigma": 0.047779983507544095,
+   "train_ir": 1.4014941945414814,
+   "status": "retired",
+   "retired_date": "2024-04-30",
+   "retired_reason": "outranked (post IR 0.32)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.3171423517497111,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "zero_frac_63": -0.4681105782111282,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0062": {
+   "id": "S0062",
+   "born_row": 109,
+   "born_date": "2024-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0043006954225697355,
+   "prior_sigma": 0.04537700209611456,
+   "train_ir": 1.4238437009435116,
+   "status": "retired",
+   "retired_date": "2025-04-30",
+   "retired_reason": "outranked (post IR 0.01)",
+   "live_n": 11,
+   "live_excess_cum": -0.04678964818722288,
+   "post_ir": 0.014659868088473117,
+   "genome": {
+    "w": {
+     "vol_63": 0.7011020533327432,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0063": {
+   "id": "S0063",
+   "born_row": 109,
+   "born_date": "2024-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.003121289152498371,
+   "prior_sigma": 0.04454597895601568,
+   "train_ir": 1.2526612892911309,
+   "status": "retired",
+   "retired_date": "2024-04-30",
+   "retired_reason": "outranked (post IR 0.24)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.24272589912453582,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "beta_252": 0.8940428860894143,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0064": {
+   "id": "S0064",
+   "born_row": 112,
+   "born_date": "2024-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.004105125937238346,
+   "prior_sigma": 0.04536338786105471,
+   "train_ir": 1.3884803200466627,
+   "status": "retired",
+   "retired_date": "2025-01-31",
+   "retired_reason": "outranked (post IR -0.02)",
+   "live_n": 5,
+   "live_excess_cum": -0.05297945137733593,
+   "post_ir": -0.0154001847712586,
+   "genome": {
+    "w": {
+     "vol_63": 0.7011020533327432,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.1866615464655989,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0065": {
+   "id": "S0065",
+   "born_row": 112,
+   "born_date": "2024-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0011722423163843187,
+   "prior_sigma": 0.04251785009754059,
+   "train_ir": 0.9525324056937404,
+   "status": "retired",
+   "retired_date": "2024-07-31",
+   "retired_reason": "outranked (post IR 0.10)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.09550733379519188,
+   "genome": {
+    "w": {
+     "vol_63": 1.0
+    },
+    "top_n": 5,
+    "hold_k": 2,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0066": {
+   "id": "S0066",
+   "born_row": 112,
+   "born_date": "2024-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0023495882700533847,
+   "prior_sigma": 0.04591266313987153,
+   "train_ir": 1.116069705450787,
+   "status": "retired",
+   "retired_date": "2024-07-31",
+   "retired_reason": "outranked (post IR 0.18)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.17727598367371522,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.46618988326827454,
+     "ln_amihud_63": -0.3101331228430085,
+     "ml_pred": -0.40911883533571497
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0067": {
+   "id": "S0067",
+   "born_row": 115,
+   "born_date": "2024-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0026658523870681694,
+   "prior_sigma": 0.04342913227100688,
+   "train_ir": 1.191578040946912,
+   "status": "retired",
+   "retired_date": "2024-10-31",
+   "retired_reason": "outranked (post IR 0.21)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.21264029642901222,
+   "genome": {
+    "w": {
+     "vol_63": 0.7011020533327432,
+     "beta_252": 0.4384031797800778,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0068": {
+   "id": "S0068",
+   "born_row": 115,
+   "born_date": "2024-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017710182295392872,
+   "prior_sigma": 0.04663870023777893,
+   "train_ir": 1.0293831292123896,
+   "status": "retired",
+   "retired_date": "2024-10-31",
+   "retired_reason": "outranked (post IR 0.13)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.13154284056175097,
+   "genome": {
+    "w": {
+     "vol_63": 0.8622628608829102,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.1903210116521586,
+     "rev_g": 0.591926786757969,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0069": {
+   "id": "S0069",
+   "born_row": 115,
+   "born_date": "2024-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0016681103157630637,
+   "prior_sigma": 0.04444949637263185,
+   "train_ir": 1.0263005577133504,
+   "status": "retired",
+   "retired_date": "2024-10-31",
+   "retired_reason": "outranked (post IR 0.13)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.13000155481223138,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.3957852694840489,
+     "ln_amihud_63": -0.13659443404766464,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0070": {
+   "id": "S0070",
+   "born_row": 118,
+   "born_date": "2025-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0019409612037920205,
+   "prior_sigma": 0.04910862001343278,
+   "train_ir": 1.0374968199437327,
+   "status": "retired",
+   "retired_date": "2025-04-30",
+   "retired_reason": "outranked (post IR -0.08)",
+   "live_n": 2,
+   "live_excess_cum": -0.03937005319316814,
+   "post_ir": -0.0810122871468682,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 1,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0071": {
+   "id": "S0071",
+   "born_row": 118,
+   "born_date": "2025-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017884028488767843,
+   "prior_sigma": 0.04875868935057527,
+   "train_ir": 1.0177847630802792,
+   "status": "retired",
+   "retired_date": "2025-01-31",
+   "retired_reason": "outranked (post IR 0.13)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.1270585669923865,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "beta_252": 0.8897639458094228,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0072": {
+   "id": "S0072",
+   "born_row": 118,
+   "born_date": "2025-01-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0,
+   "prior_sigma": 0.05292466435378457,
+   "train_ir": 0.7488121962411352,
+   "status": "retired",
+   "retired_date": "2025-01-31",
+   "retired_reason": "outranked (post IR 0.00)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.0,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.4127556938095244
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0073": {
+   "id": "S0073",
+   "born_row": 121,
+   "born_date": "2025-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002366864060092694,
+   "prior_sigma": 0.039602131919143434,
+   "train_ir": 1.191720044990734,
+   "status": "retired",
+   "retired_date": "2025-07-31",
+   "retired_reason": "outranked (post IR -0.32)",
+   "live_n": 2,
+   "live_excess_cum": -0.07928895317166505,
+   "post_ir": -0.31794157616115704,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": 0.41855410566146645,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0074": {
+   "id": "S0074",
+   "born_row": 121,
+   "born_date": "2025-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001522501879689341,
+   "prior_sigma": 0.041336936392414626,
+   "train_ir": 1.0328247204722536,
+   "status": "retired",
+   "retired_date": "2025-07-31",
+   "retired_reason": "outranked (post IR -0.18)",
+   "live_n": 2,
+   "live_excess_cum": -0.04867000498699109,
+   "post_ir": -0.18196909424455227,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": -0.41855410566146645,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.20824547365771462
+    },
+    "top_n": 4,
+    "hold_k": 1,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0075": {
+   "id": "S0075",
+   "born_row": 121,
+   "born_date": "2025-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001760621196603109,
+   "prior_sigma": 0.049602466285474135,
+   "train_ir": 1.023562529669939,
+   "status": "retired",
+   "retired_date": "2025-04-30",
+   "retired_reason": "outranked (post IR 0.12)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.1229570057201904,
+   "genome": {
+    "w": {
+     "vol_63": 1.0,
+     "dvol_63": 0.4219147276148328,
+     "beta_252": 0.4946343725892018,
+     "zero_frac_63": -0.37783072218589986,
+     "ml_pred": -0.3197411978331158
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": -0.1,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0076": {
+   "id": "S0076",
+   "born_row": 124,
+   "born_date": "2025-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0017856997342665633,
+   "prior_sigma": 0.03177831939710253,
+   "train_ir": 1.1525946941806486,
+   "status": "retired",
+   "retired_date": "2025-10-31",
+   "retired_reason": "outranked (post IR -0.19)",
+   "live_n": 2,
+   "live_excess_cum": -0.04621115382100293,
+   "post_ir": -0.19296621590256893,
+   "genome": {
+    "w": {
+     "mom_126": -0.39982991350711167,
+     "idio_vol_126": 0.991729728380039,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0077": {
+   "id": "S0077",
+   "born_row": 124,
+   "born_date": "2025-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001816151908859605,
+   "prior_sigma": 0.021740030456095513,
+   "train_ir": 1.3420612285084166,
+   "status": "retired",
+   "retired_date": "2025-10-31",
+   "retired_reason": "outranked (post IR -0.07)",
+   "live_n": 2,
+   "live_excess_cum": -0.02768158172361316,
+   "post_ir": -0.06701198007496875,
+   "genome": {
+    "w": {
+     "mom_126": -0.39982991350711167,
+     "idio_vol_126": 0.6029959831233903,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0078": {
+   "id": "S0078",
+   "born_row": 124,
+   "born_date": "2025-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0016914312544399283,
+   "prior_sigma": 0.04111811375384489,
+   "train_ir": 1.0482803754319021,
+   "status": "retired",
+   "retired_date": "2025-07-31",
+   "retired_reason": "outranked (post IR 0.14)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.14249899145366174,
+   "genome": {
+    "w": {
+     "mom_126": -0.39982991350711167,
+     "idio_vol_126": 0.991729728380039,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 6,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0079": {
+   "id": "S0079",
+   "born_row": 127,
+   "born_date": "2025-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002184037858869522,
+   "prior_sigma": 0.021668433904930152,
+   "train_ir": 1.4664259263304658,
+   "status": "retired",
+   "retired_date": "2026-01-30",
+   "retired_reason": "outranked (post IR 0.10)",
+   "live_n": 2,
+   "live_excess_cum": -0.01767860793485076,
+   "post_ir": 0.0974038835950481,
+   "genome": {
+    "w": {
+     "mom_126": -0.39982991350711167,
+     "idio_vol_126": 0.8453967175233817,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0080": {
+   "id": "S0080",
+   "born_row": 127,
+   "born_date": "2025-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0019764712700519826,
+   "prior_sigma": 0.020597377673810126,
+   "train_ir": 1.4329204169778493,
+   "status": "active",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 12,
+   "live_excess_cum": -0.021666353571595826,
+   "post_ir": 0.013352271400862878,
+   "genome": {
+    "w": {
+     "mom_126": -0.3246457799094481,
+     "idio_vol_126": 0.3685159912725839,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0081": {
+   "id": "S0081",
+   "born_row": 127,
+   "born_date": "2025-10-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0016671809946219773,
+   "prior_sigma": 0.030074547206506406,
+   "train_ir": 1.15217248670576,
+   "status": "retired",
+   "retired_date": "2025-10-31",
+   "retired_reason": "outranked (post IR 0.19)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.19203229683030837,
+   "genome": {
+    "w": {
+     "mom_126": -0.6108995724227088,
+     "idio_vol_126": 0.6029959831233903,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0082": {
+   "id": "S0082",
+   "born_row": 130,
+   "born_date": "2026-01-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0024380616910780863,
+   "prior_sigma": 0.019422309425659194,
+   "train_ir": 1.6415982574819201,
+   "status": "retired",
+   "retired_date": "2026-04-30",
+   "retired_reason": "outranked (post IR -0.11)",
+   "live_n": 2,
+   "live_excess_cum": -0.03764312354706119,
+   "post_ir": -0.10684062604461692,
+   "genome": {
+    "w": {
+     "mom_126": -0.3246457799094481,
+     "mom_252_21": 0.9290742908968803,
+     "idio_vol_126": 0.3685159912725839,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": -0.1,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0083": {
+   "id": "S0083",
+   "born_row": 130,
+   "born_date": "2026-01-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0016700712777384056,
+   "prior_sigma": 0.03681281864138637,
+   "train_ir": 1.0862171396333804,
+   "status": "retired",
+   "retired_date": "2026-04-30",
+   "retired_reason": "outranked (post IR -0.15)",
+   "live_n": 2,
+   "live_excess_cum": -0.041951951852121076,
+   "post_ir": -0.14727452409059238,
+   "genome": {
+    "w": {
+     "ln_amihud_63": -0.5134338859855877,
+     "ml_pred": -0.6218619028517931
+    },
+    "top_n": 4,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0084": {
+   "id": "S0084",
+   "born_row": 130,
+   "born_date": "2026-01-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0018587708708097416,
+   "prior_sigma": 0.021602942427178983,
+   "train_ir": 1.36802815887121,
+   "status": "probation",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 9,
+   "live_excess_cum": -0.02935062690397444,
+   "post_ir": -0.04944479037576959,
+   "genome": {
+    "w": {
+     "mom_126": -0.3246457799094481,
+     "idio_vol_126": 0.3685159912725839,
+     "dist_52w_high": 1.0
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0085": {
+   "id": "S0085",
+   "born_row": 133,
+   "born_date": "2026-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0032806900488599536,
+   "prior_sigma": 0.036278111352469514,
+   "train_ir": 1.3948149315537728,
+   "status": "retired",
+   "retired_date": "2026-10-30",
+   "retired_reason": "live excess -13.3% vs benchmark",
+   "live_n": 6,
+   "live_excess_cum": -0.13274461524345235,
+   "post_ir": -0.4661321435065341,
+   "genome": {
+    "w": {
+     "zero_frac_63": 0.5723829577535812,
+     "ln_amihud_63": -0.9153638739264169
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0086": {
+   "id": "S0086",
+   "born_row": 133,
+   "born_date": "2026-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0022879378131023947,
+   "prior_sigma": 0.020200371289356405,
+   "train_ir": 1.5529892777721035,
+   "status": "retired",
+   "retired_date": "2026-10-30",
+   "retired_reason": "outranked (post IR -0.24)",
+   "live_n": 6,
+   "live_excess_cum": -0.057781799538547014,
+   "post_ir": -0.2418937872017158,
+   "genome": {
+    "w": {
+     "mom_126": -0.3246457799094481,
+     "idio_vol_126": 0.3685159912725839,
+     "dist_52w_high": 0.6000772721839999
+    },
+    "top_n": 12,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.5
+   }
+  },
+  "S0087": {
+   "id": "S0087",
+   "born_row": 133,
+   "born_date": "2026-04-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0021528979757096767,
+   "prior_sigma": 0.036474096772715986,
+   "train_ir": 1.1772259045971705,
+   "status": "retired",
+   "retired_date": "2026-04-30",
+   "retired_reason": "outranked (post IR 0.20)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.20446996676450818,
+   "genome": {
+    "w": {
+     "ma_50_200": 0.8424998305501925,
+     "zero_frac_63": 0.5723829577535812,
+     "ln_amihud_63": -0.9153638739264169
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0088": {
+   "id": "S0088",
+   "born_row": 136,
+   "born_date": "2026-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0035819797007501765,
+   "prior_sigma": 0.03754663490234256,
+   "train_ir": 1.4274372259485442,
+   "status": "retired",
+   "retired_date": "2026-10-30",
+   "retired_reason": "outranked (post IR -0.75)",
+   "live_n": 3,
+   "live_excess_cum": -0.15997671396036003,
+   "post_ir": -0.7458137316395415,
+   "genome": {
+    "w": {
+     "zero_frac_63": 0.5723829577535812,
+     "ln_amihud_63": -0.8218944345857581
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0089": {
+   "id": "S0089",
+   "born_row": 136,
+   "born_date": "2026-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0026891070600067453,
+   "prior_sigma": 0.03358920599606902,
+   "train_ir": 1.3211436830139172,
+   "status": "retired",
+   "retired_date": "2026-07-31",
+   "retired_reason": "outranked (post IR 0.28)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.2773313579052118,
+   "genome": {
+    "w": {
+     "zero_frac_63": 0.5723829577535812,
+     "ln_amihud_63": -0.8218944345857581
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "invvol",
+    "regime_thr": -0.1,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0090": {
+   "id": "S0090",
+   "born_row": 136,
+   "born_date": "2026-07-31",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.002100405866061264,
+   "prior_sigma": 0.03795339974998139,
+   "train_ir": 1.149899548990555,
+   "status": "retired",
+   "retired_date": "2026-07-31",
+   "retired_reason": "outranked (post IR 0.19)",
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.19170929089353073,
+   "genome": {
+    "w": {
+     "dist_52w_high": 0.6000772721839999,
+     "ln_amihud_63": -0.9153638739264169
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0091": {
+   "id": "S0091",
+   "born_row": 139,
+   "born_date": "2026-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.001480201972243005,
+   "prior_sigma": 0.040278861198211745,
+   "train_ir": 1.0169119277273018,
+   "status": "probation",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.12730176301520488,
+   "genome": {
+    "w": {
+     "zero_frac_63": 0.3887830613322458,
+     "ln_amihud_63": 1.0
+    },
+    "top_n": 6,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0092": {
+   "id": "S0092",
+   "born_row": 139,
+   "born_date": "2026-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0019785448590141823,
+   "prior_sigma": 0.035891365133687514,
+   "train_ir": 1.1442320435647517,
+   "status": "probation",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.19096182093392988,
+   "genome": {
+    "w": {
+     "zero_frac_63": 0.5723829577535812,
+     "ln_amihud_63": -0.8218944345857581
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": -0.1,
+    "bear_exposure": 0.0
+   }
+  },
+  "S0093": {
+   "id": "S0093",
+   "born_row": 139,
+   "born_date": "2026-10-30",
+   "origin": "evolved",
+   "parents": [],
+   "prior_mu": 0.0005970129228805694,
+   "prior_sigma": 0.04290373779744348,
+   "train_ir": 0.8587155464623499,
+   "status": "probation",
+   "retired_date": null,
+   "retired_reason": null,
+   "live_n": 0,
+   "live_excess_cum": 0.0,
+   "post_ir": 0.04820357238272899,
+   "genome": {
+    "w": {
+     "vol_63": -0.1846182330023968,
+     "zero_frac_63": 0.3887830613322458,
+     "ln_amihud_63": 0.8218944345857581
+    },
+    "top_n": 5,
+    "hold_k": 3,
+    "weighting": "equal",
+    "regime_thr": 0.0,
+    "bear_exposure": 0.0
+   }
+  }
+ }
+}
