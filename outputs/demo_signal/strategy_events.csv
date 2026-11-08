@@ -1,0 +1,196 @@
+date,event,id,detail
+2019-04-30,born,S0001,evolved | train IR 2.12 (deflated 1.12) | +trend_200 +idio_vol_126 +beta_252 | top5 hold1m equal | regime>+0.00->0%
+2019-04-30,born,S0002,evolved | train IR 2.06 (deflated 1.06) | +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2019-04-30,born,S0003,evolved | train IR 2.22 (deflated 1.22) | +trend_200 +ma_50_200 +idio_vol_126 | top6 hold1m equal | regime>-0.05->0%
+2019-07-31,born,S0004,evolved | train IR 1.92 (deflated 0.97) | +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2019-07-31,born,S0005,evolved | train IR 1.74 (deflated 0.79) | +idio_vol_126 +trend_200 +beta_252 | top5 hold1m equal | regime>+0.00->0%
+2019-07-31,born,S0006,evolved | train IR 1.81 (deflated 0.86) | +beta_252 +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2019-10-31,born,S0007,evolved | train IR 1.74 (deflated 0.84) | -roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2019-10-31,born,S0008,evolved | train IR 1.82 (deflated 0.91) | +beta_252 +mom_252_21 -eps_g | top6 hold1m equal | regime>+0.00->0%
+2019-10-31,born,S0009,evolved | train IR 1.45 (deflated 0.54) | +mom_252_21 +idio_vol_126 | top6 hold1m invvol | regime>+0.00->0%
+2019-10-31,retired,S0005,outranked (post IR -0.40) | +idio_vol_126 +trend_200 +beta_252 | top5 hold1m equal | regime>+0.00->0%
+2020-01-31,promoted,S0001,live excess +0.8% over 8m
+2020-01-31,promoted,S0002,live excess +20.8% over 8m
+2020-01-31,promoted,S0003,live excess +15.0% over 8m
+2020-01-31,born,S0010,evolved | train IR 2.02 (deflated 1.14) | -roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-01-31,born,S0011,evolved | train IR 1.98 (deflated 1.11) | +beta_252 +mom_252_21 -bp | top6 hold1m equal | regime>+0.00->0%
+2020-01-31,born,S0012,evolved | train IR 1.74 (deflated 0.87) | +beta_252 +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2020-01-31,retired,S0011,outranked (post IR 0.55) | +beta_252 +mom_252_21 -bp | top6 hold1m equal | regime>+0.00->0%
+2020-01-31,retired,S0012,outranked (post IR 0.43) | +beta_252 +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2020-01-31,retired,S0001,outranked (post IR 0.29) | +trend_200 +idio_vol_126 +beta_252 | top5 hold1m equal | regime>+0.00->0%
+2020-04-30,promoted,S0004,live excess +23.1% over 8m
+2020-04-30,promoted,S0006,live excess +9.0% over 8m
+2020-04-30,born,S0013,evolved | train IR 1.76 (deflated 0.92) | +mom_252_21 +dy +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-04-30,born,S0014,evolved | train IR 1.45 (deflated 0.60) | +mom_252_21 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-04-30,born,S0015,evolved | train IR 1.44 (deflated 0.60) | +trend_200 +mom_63 -eps_g | top8 hold3m equal | regime>-0.10->50%
+2020-04-30,retired,S0014,outranked (post IR 0.30) | +mom_252_21 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-04-30,retired,S0015,outranked (post IR 0.30) | +trend_200 +mom_63 -eps_g | top8 hold3m equal | regime>-0.10->50%
+2020-04-30,retired,S0010,outranked (post IR -0.08) | -roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-07-31,promoted,S0007,live excess +15.3% over 8m
+2020-07-31,promoted,S0008,live excess +13.0% over 8m
+2020-07-31,promoted,S0009,live excess +17.2% over 8m
+2020-07-31,born,S0016,evolved | train IR 1.60 (deflated 0.78) | +trend_200 +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-07-31,born,S0017,evolved | train IR 1.69 (deflated 0.87) | +roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-07-31,born,S0018,evolved | train IR 1.64 (deflated 0.82) | +trend_200 +ma_50_200 +idio_vol_126 | top6 hold1m equal | regime>-0.05->0%
+2020-07-31,retired,S0018,outranked (post IR 0.41) | +trend_200 +ma_50_200 +idio_vol_126 | top6 hold1m equal | regime>-0.05->0%
+2020-07-31,retired,S0016,outranked (post IR 0.39) | +trend_200 +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-07-31,retired,S0013,outranked (post IR 0.30) | +mom_252_21 +dy +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2020-10-30,born,S0019,evolved | train IR 1.54 (deflated 0.74) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2020-10-30,born,S0020,evolved | train IR 1.35 (deflated 0.55) | +mom_252_21 | top5 hold1m equal | regime>+0.00->0%
+2020-10-30,born,S0021,evolved | train IR 1.40 (deflated 0.60) | +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->50%
+2020-10-30,retired,S0021,outranked (post IR 0.30) | +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->50%
+2020-10-30,retired,S0020,outranked (post IR 0.28) | +mom_252_21 | top5 hold1m equal | regime>+0.00->0%
+2020-10-30,retired,S0017,outranked (post IR 0.22) | +roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2021-01-29,born,S0022,evolved | train IR 1.69 (deflated 0.91) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2021-01-29,born,S0023,evolved | train IR 1.78 (deflated 1.00) | +rsi_14 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-01-29,born,S0024,evolved | train IR 1.72 (deflated 0.94) | +roe +beta_252 +mom_252_21 | top6 hold1m equal | regime>+0.00->0%
+2021-01-29,retired,S0023,outranked (post IR 0.50) | +rsi_14 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-01-29,retired,S0024,outranked (post IR 0.47) | +roe +beta_252 +mom_252_21 | top6 hold1m equal | regime>+0.00->0%
+2021-01-29,retired,S0022,outranked (post IR 0.46) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2021-04-30,born,S0025,evolved | train IR 1.77 (deflated 1.01) | +mom_252_21 +sent_30 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2021-04-30,born,S0026,evolved | train IR 1.55 (deflated 0.80) | +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2021-04-30,born,S0027,evolved | train IR 1.74 (deflated 0.98) | +rsi_14 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-04-30,retired,S0025,outranked (post IR 0.51) | +mom_252_21 +sent_30 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2021-04-30,retired,S0027,outranked (post IR 0.49) | +rsi_14 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-04-30,retired,S0026,outranked (post IR 0.40) | +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2021-07-30,promoted,S0019,live excess +30.7% over 8m
+2021-07-30,born,S0028,evolved | train IR 1.90 (deflated 1.14) | +mom_252_21 -sent_30 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2021-07-30,born,S0029,evolved | train IR 1.78 (deflated 1.02) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-07-30,born,S0030,evolved | train IR 1.69 (deflated 0.93) | +mom_252_21 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2021-07-30,retired,S0028,outranked (post IR 0.57) | +mom_252_21 -sent_30 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2021-07-30,retired,S0029,outranked (post IR 0.51) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2021-07-30,retired,S0030,outranked (post IR 0.46) | +mom_252_21 -idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2021-10-29,born,S0031,evolved | train IR 1.78 (deflated 1.02) | +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>-0.05->0%
+2021-10-29,born,S0032,evolved | train IR 1.58 (deflated 0.82) | +bp +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2021-10-29,born,S0033,evolved | train IR 1.50 (deflated 0.74) | +mom_252_21 +idio_vol_126 | top5 hold3m equal | regime>-0.05->50%
+2021-10-29,retired,S0031,outranked (post IR 0.51) | +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>-0.05->0%
+2021-10-29,retired,S0032,outranked (post IR 0.41) | +bp +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2021-10-29,retired,S0033,outranked (post IR 0.37) | +mom_252_21 +idio_vol_126 | top5 hold3m equal | regime>-0.05->50%
+2022-01-31,born,S0034,evolved | train IR 1.72 (deflated 0.96) | +mom_252_21 +mom_63 | top4 hold3m equal | regime>+0.00->0%
+2022-01-31,born,S0035,evolved | train IR 1.61 (deflated 0.85) | +mom_252_21 | top4 hold3m equal | regime>+0.00->50%
+2022-01-31,born,S0036,evolved | train IR 1.59 (deflated 0.83) | +mom_252_21 +mom_63 | top4 hold3m equal | regime>+0.00->0%
+2022-01-31,retired,S0034,outranked (post IR 0.48) | +mom_252_21 +mom_63 | top4 hold3m equal | regime>+0.00->0%
+2022-01-31,retired,S0035,outranked (post IR 0.42) | +mom_252_21 | top4 hold3m equal | regime>+0.00->50%
+2022-01-31,retired,S0036,outranked (post IR 0.41) | +mom_252_21 +mom_63 | top4 hold3m equal | regime>+0.00->0%
+2022-04-29,born,S0037,evolved | train IR 1.65 (deflated 0.89) | +mom_252_21 | top5 hold2m invvol | regime>-0.05->0%
+2022-04-29,born,S0038,evolved | train IR 1.56 (deflated 0.81) | +mom_252_21 +ml_pred | top5 hold1m equal | regime>+0.00->0%
+2022-04-29,born,S0039,evolved | train IR 1.61 (deflated 0.85) | -sent_30 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2022-04-29,retired,S0037,outranked (post IR 0.45) | +mom_252_21 | top5 hold2m invvol | regime>-0.05->0%
+2022-04-29,retired,S0039,outranked (post IR 0.43) | -sent_30 +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2022-04-29,retired,S0038,outranked (post IR 0.40) | +mom_252_21 +ml_pred | top5 hold1m equal | regime>+0.00->0%
+2022-07-29,born,S0040,evolved | train IR 2.29 (deflated 1.51) | +beta_252 +mom_126 +mom_252_21 | top5 hold1m equal | regime>-0.05->50%
+2022-07-29,born,S0041,evolved | train IR 2.14 (deflated 1.37) | +mom_126 +beta_252 +mom_252_21 | top5 hold2m equal
+2022-07-29,born,S0042,evolved | train IR 2.07 (deflated 1.30) | +mom_126 +beta_252 +mom_252_21 | top5 hold2m invvol
+2022-07-29,retired,S0040,outranked (post IR 0.76) | +beta_252 +mom_126 +mom_252_21 | top5 hold1m equal | regime>-0.05->50%
+2022-07-29,retired,S0041,outranked (post IR 0.68) | +mom_126 +beta_252 +mom_252_21 | top5 hold2m equal
+2022-07-29,retired,S0042,outranked (post IR 0.65) | +mom_126 +beta_252 +mom_252_21 | top5 hold2m invvol
+2022-10-31,born,S0043,evolved | train IR 1.26 (deflated 0.50) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.10->0%
+2022-10-31,born,S0044,evolved | train IR 1.29 (deflated 0.53) | +mom_252_21 +idio_vol_126 | top5 hold3m equal | regime>-0.10->0%
+2022-10-31,born,S0045,evolved | train IR 1.24 (deflated 0.48) | +mom_252_21 +idio_vol_126 | top6 hold2m invvol | regime>-0.10->0%
+2022-10-31,retired,S0044,outranked (post IR 0.26) | +mom_252_21 +idio_vol_126 | top5 hold3m equal | regime>-0.10->0%
+2022-10-31,retired,S0043,outranked (post IR 0.25) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.10->0%
+2022-10-31,retired,S0045,outranked (post IR 0.24) | +mom_252_21 +idio_vol_126 | top6 hold2m invvol | regime>-0.10->0%
+2023-01-31,born,S0046,evolved | train IR 1.90 (deflated 1.13) | +trend_200 +beta_252 -idio_vol_126 | top12 hold2m equal | regime>+0.00->50%
+2023-01-31,born,S0047,evolved | train IR 1.45 (deflated 0.68) | +trend_200 | top15 hold2m equal | regime>-0.10->50%
+2023-01-31,born,S0048,evolved | train IR 1.13 (deflated 0.37) | +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>+0.00->0%
+2023-01-31,retired,S0046,outranked (post IR 0.57) | +trend_200 +beta_252 -idio_vol_126 | top12 hold2m equal | regime>+0.00->50%
+2023-01-31,retired,S0047,outranked (post IR 0.34) | +trend_200 | top15 hold2m equal | regime>-0.10->50%
+2023-01-31,retired,S0048,outranked (post IR 0.18) | +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>+0.00->0%
+2023-04-28,born,S0049,evolved | train IR 1.50 (deflated 0.73) | +mom_252_21 +idio_vol_126 | top5 hold3m invvol | regime>-0.05->0%
+2023-04-28,born,S0050,evolved | train IR 1.41 (deflated 0.65) | -eps_g +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2023-04-28,born,S0051,evolved | train IR 1.23 (deflated 0.47) | +mom_126 +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>-0.05->0%
+2023-04-28,retired,S0049,outranked (post IR 0.37) | +mom_252_21 +idio_vol_126 | top5 hold3m invvol | regime>-0.05->0%
+2023-04-28,retired,S0050,outranked (post IR 0.33) | -eps_g +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>-0.05->0%
+2023-04-28,retired,S0051,outranked (post IR 0.23) | +mom_126 +mom_252_21 +idio_vol_126 | top5 hold2m invvol | regime>-0.05->0%
+2023-07-31,born,S0052,evolved | train IR 1.63 (deflated 0.87) | +mom_252_21 -dy +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2023-07-31,born,S0053,evolved | train IR 1.65 (deflated 0.88) | -dy +dist_52w_high +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2023-07-31,born,S0054,evolved | train IR 1.69 (deflated 0.92) | +mom_252_21 -rev_g -dy | top5 hold2m equal | regime>+0.00->0%
+2023-07-31,retired,S0054,outranked (post IR 0.46) | +mom_252_21 -rev_g -dy | top5 hold2m equal | regime>+0.00->0%
+2023-07-31,retired,S0053,outranked (post IR 0.44) | -dy +dist_52w_high +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2023-07-31,retired,S0052,outranked (post IR 0.43) | +mom_252_21 -dy +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2023-10-31,born,S0055,evolved | train IR 1.68 (deflated 0.91) | +trend_200 -ln_value_63 +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2023-10-31,born,S0056,evolved | train IR 1.79 (deflated 1.02) | +trend_200 -ln_value_63 +mom_252_21 | top5 hold3m equal | regime>+0.00->0%
+2023-10-31,born,S0057,evolved | train IR 2.09 (deflated 1.31) | +trend_200 +beta_252 -ln_value_63 | top15 hold2m equal | regime>+0.00->0%
+2023-10-31,retired,S0057,outranked (post IR 0.66) | +trend_200 +beta_252 -ln_value_63 | top15 hold2m equal | regime>+0.00->0%
+2023-10-31,retired,S0056,outranked (post IR 0.51) | +trend_200 -ln_value_63 +mom_252_21 | top5 hold3m equal | regime>+0.00->0%
+2023-10-31,retired,S0055,outranked (post IR 0.46) | +trend_200 -ln_value_63 +mom_252_21 | top5 hold2m equal | regime>+0.00->0%
+2024-01-31,born,S0058,evolved | train IR 2.21 (deflated 1.44) | +rel_mom_126 +mom_252_21 -idio_vol_126 | top12 hold2m equal | regime>-0.05->50%
+2024-01-31,born,S0059,evolved | train IR 2.04 (deflated 1.26) | +rel_mom_126 +mom_252_21 -idio_vol_126 | top6 hold2m equal | regime>-0.10->50%
+2024-01-31,born,S0060,evolved | train IR 1.90 (deflated 1.13) | +rel_mom_126 +mom_252_21 | top12 hold2m equal | regime>-0.05->50%
+2024-01-31,retired,S0058,outranked (post IR 0.72) | +rel_mom_126 +mom_252_21 -idio_vol_126 | top12 hold2m equal | regime>-0.05->50%
+2024-01-31,retired,S0059,outranked (post IR 0.63) | +rel_mom_126 +mom_252_21 -idio_vol_126 | top6 hold2m equal | regime>-0.10->50%
+2024-01-31,retired,S0060,outranked (post IR 0.56) | +rel_mom_126 +mom_252_21 | top12 hold2m equal | regime>-0.05->50%
+2024-04-30,born,S0061,evolved | train IR 2.02 (deflated 1.25) | +mom_252_21 +trend_200 | top4 hold3m equal
+2024-04-30,born,S0062,evolved | train IR 1.97 (deflated 1.20) | +trend_200 -dy +mom_252_21 | top5 hold3m invvol
+2024-04-30,born,S0063,evolved | train IR 1.77 (deflated 1.00) | +mom_252_21 +dist_52w_high | top4 hold3m invvol | regime>-0.10->0%
+2024-04-30,retired,S0061,outranked (post IR 0.62) | +mom_252_21 +trend_200 | top4 hold3m equal
+2024-04-30,retired,S0062,outranked (post IR 0.60) | +trend_200 -dy +mom_252_21 | top5 hold3m invvol
+2024-04-30,retired,S0063,outranked (post IR 0.50) | +mom_252_21 +dist_52w_high | top4 hold3m invvol | regime>-0.10->0%
+2024-07-31,born,S0064,evolved | train IR 2.33 (deflated 1.57) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->0%
+2024-07-31,born,S0065,evolved | train IR 2.25 (deflated 1.49) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2024-07-31,born,S0066,evolved | train IR 1.99 (deflated 1.23) | +mom_252_21 | top4 hold3m equal | regime>-0.10->0%
+2024-07-31,retired,S0066,outranked (post IR 0.62) | +mom_252_21 | top4 hold3m equal | regime>-0.10->0%
+2024-07-31,retired,S0006,outranked (post IR 0.58) | +beta_252 +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2024-07-31,retired,S0008,outranked (post IR 0.58) | +beta_252 +mom_252_21 -eps_g | top6 hold1m equal | regime>+0.00->0%
+2024-10-31,born,S0067,evolved | train IR 2.48 (deflated 1.72) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2024-10-31,born,S0068,evolved | train IR 2.29 (deflated 1.53) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2024-10-31,born,S0069,evolved | train IR 2.10 (deflated 1.34) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->0%
+2024-10-31,retired,S0002,outranked (post IR 0.73) | +mom_252_21 +idio_vol_126 | top6 hold1m equal | regime>+0.00->0%
+2024-10-31,retired,S0009,outranked (post IR 0.69) | +mom_252_21 +idio_vol_126 | top6 hold1m invvol | regime>+0.00->0%
+2024-10-31,retired,S0069,outranked (post IR 0.67) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->0%
+2025-01-31,born,S0070,evolved | train IR 2.42 (deflated 1.66) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2025-01-31,born,S0071,evolved | train IR 2.29 (deflated 1.54) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-01-31,born,S0072,evolved | train IR 2.26 (deflated 1.51) | +mom_252_21 -roe +ma_50_200 | top4 hold3m equal | regime>-0.10->0%
+2025-01-31,retired,S0071,outranked (post IR 0.77) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-01-31,retired,S0003,outranked (post IR 0.76) | +trend_200 +ma_50_200 +idio_vol_126 | top6 hold1m equal | regime>-0.05->0%
+2025-01-31,retired,S0072,outranked (post IR 0.75) | +mom_252_21 -roe +ma_50_200 | top4 hold3m equal | regime>-0.10->0%
+2025-04-30,promoted,S0064,live excess +19.6% over 8m
+2025-04-30,promoted,S0065,live excess +19.6% over 8m
+2025-04-30,born,S0073,evolved | train IR 2.23 (deflated 1.47) | +mom_252_21 | top4 hold3m equal | regime>-0.10->50%
+2025-04-30,born,S0074,evolved | train IR 2.42 (deflated 1.67) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2025-04-30,born,S0075,evolved | train IR 2.25 (deflated 1.49) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-04-30,retired,S0075,outranked (post IR 0.75) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-04-30,retired,S0073,outranked (post IR 0.74) | +mom_252_21 | top4 hold3m equal | regime>-0.10->50%
+2025-04-30,retired,S0070,outranked (post IR 0.71) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2025-07-31,promoted,S0067,live excess +26.0% over 8m
+2025-07-31,promoted,S0068,live excess +26.0% over 8m
+2025-07-31,born,S0076,evolved | train IR 2.51 (deflated 1.76) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-07-31,born,S0077,evolved | train IR 2.30 (deflated 1.55) | +mom_252_21 -ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-07-31,born,S0078,evolved | train IR 2.31 (deflated 1.55) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2025-07-31,retired,S0076,outranked (post IR 0.88) | +mom_252_21 +ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-07-31,retired,S0078,outranked (post IR 0.77) | +mom_252_21 +ma_50_200 | top4 hold3m equal
+2025-07-31,retired,S0077,outranked (post IR 0.77) | +mom_252_21 -ma_50_200 | top4 hold3m equal | regime>-0.10->50%
+2025-10-31,born,S0079,evolved | train IR 3.14 (deflated 2.38) | +mom_252_21 +rev_5 +ma_50_200 | top8 hold3m equal
+2025-10-31,born,S0080,evolved | train IR 3.29 (deflated 2.52) | +mom_252_21 +ma_50_200 +rev_5 | top12 hold3m equal
+2025-10-31,born,S0081,evolved | train IR 2.63 (deflated 1.86) | +mom_252_21 +ma_50_200 +rev_5 | top8 hold2m equal
+2025-10-31,retired,S0004,outranked (post IR 1.00) | +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2025-10-31,retired,S0007,outranked (post IR 0.96) | -roe +mom_252_21 +idio_vol_126 | top5 hold1m equal | regime>+0.00->0%
+2025-10-31,retired,S0081,outranked (post IR 0.93) | +mom_252_21 +ma_50_200 +rev_5 | top8 hold2m equal
+2026-01-30,promoted,S0074,live excess +24.0% over 8m
+2026-01-30,born,S0082,evolved | train IR 3.30 (deflated 2.53) | +mom_252_21 +rev_5 +ma_50_200 | top8 hold3m equal
+2026-01-30,born,S0083,evolved | train IR 2.86 (deflated 2.09) | +dist_52w_high +mom_252_21 +rev_5 | top8 hold3m equal
+2026-01-30,born,S0084,evolved | train IR 2.92 (deflated 2.16) | +mom_252_21 +ma_50_200 +rev_5 | top12 hold3m invvol
+2026-01-30,retired,S0083,outranked (post IR 1.05) | +dist_52w_high +mom_252_21 +rev_5 | top8 hold3m equal
+2026-01-30,retired,S0019,outranked (post IR 0.98) | +mom_252_21 +idio_vol_126 | top5 hold2m equal | regime>+0.00->0%
+2026-01-30,retired,S0080,outranked (post IR 0.92) | +mom_252_21 +ma_50_200 +rev_5 | top12 hold3m equal
+2026-04-30,born,S0085,evolved | train IR 3.53 (deflated 2.76) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m equal
+2026-04-30,born,S0086,evolved | train IR 2.95 (deflated 2.18) | +rev_5 +mom_252_21 +ma_50_200 | top8 hold3m equal
+2026-04-30,born,S0087,evolved | train IR 3.06 (deflated 2.29) | +mom_252_21 +vol_63 +ma_50_200 | top12 hold3m equal
+2026-04-30,retired,S0084,outranked (post IR 1.03) | +mom_252_21 +ma_50_200 +rev_5 | top12 hold3m invvol
+2026-04-30,retired,S0082,outranked (post IR 1.02) | +mom_252_21 +rev_5 +ma_50_200 | top8 hold3m equal
+2026-04-30,retired,S0079,outranked (post IR 0.73) | +mom_252_21 +rev_5 +ma_50_200 | top8 hold3m equal
+2026-07-31,born,S0088,evolved | train IR 3.25 (deflated 2.49) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m equal
+2026-07-31,born,S0089,evolved | train IR 2.99 (deflated 2.22) | +mom_252_21 +vol_63 +ma_50_200 | top12 hold3m equal
+2026-07-31,born,S0090,evolved | train IR 2.69 (deflated 1.92) | +mom_252_21 -ml_pred +rev_5 | top10 hold3m equal
+2026-07-31,retired,S0088,outranked (post IR 1.24) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m equal
+2026-07-31,retired,S0089,outranked (post IR 1.11) | +mom_252_21 +vol_63 +ma_50_200 | top12 hold3m equal
+2026-07-31,retired,S0090,outranked (post IR 0.96) | +mom_252_21 -ml_pred +rev_5 | top10 hold3m equal
+2026-10-30,promoted,S0085,live excess +1.8% over 6m
+2026-10-30,promoted,S0086,live excess +6.3% over 6m
+2026-10-30,promoted,S0087,live excess +4.2% over 6m
+2026-10-30,born,S0091,evolved | train IR 3.08 (deflated 2.30) | +mom_252_21 +vol_63 +ma_50_200 | top12 hold3m invvol
+2026-10-30,born,S0092,evolved | train IR 2.81 (deflated 2.03) | +mom_252_21 +rel_mom_126 +rev_5 | top10 hold3m equal
+2026-10-30,born,S0093,evolved | train IR 2.49 (deflated 1.72) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m invvol | regime>+0.00->50%
+2026-10-30,retired,S0092,outranked (post IR 1.02) | +mom_252_21 +rel_mom_126 +rev_5 | top10 hold3m equal
+2026-10-30,retired,S0093,outranked (post IR 0.86) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m invvol | regime>+0.00->50%
+2026-10-30,retired,S0085,outranked (post IR 0.86) | +mom_252_21 +rev_5 +ma_50_200 | top10 hold3m equal
